@@ -1,0 +1,40 @@
+{
+  "_note": "SYNTHETIC persona for a concept prototype. Not a real merchant.",
+  "id": "acc_SYNTH_MDH01",
+  "owner": "Meera",
+  "ownerAge": 34,
+  "business": "Meera's Diya House",
+  "category": "Handcrafted diyas and gift hampers",
+  "city": "Jaipur",
+  "channels": [
+    "Instagram",
+    "Shopify"
+  ],
+  "razorpayProducts": [
+    "Payment Links",
+    "Checkout"
+  ],
+  "accountAgeMonths": 26,
+  "hasAccountManager": false,
+  "perTransactionLimit": 50000,
+  "avgSellingPricePerDiya": 450,
+  "normalMonthlySales": 300000,
+  "festiveMonthlySalesRange": [
+    1000000,
+    1400000
+  ],
+  "corporateOrderRange": [
+    80000,
+    200000
+  ],
+  "festival": {
+    "name": "Diwali",
+    "date": "2026-11-08",
+    "lastYearDate": "2025-10-20"
+  },
+  "proposedSale": {
+    "start": "2026-10-20",
+    "end": "2026-11-08"
+  },
+  "campaignLinkPlaceholder": "https://www.instagram.com/p/SAMPLE-diwali-2026/"
+}

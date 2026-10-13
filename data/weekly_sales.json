@@ -1,0 +1,333 @@
+{
+  "_note": "SYNTHETIC weekly sales (INR) for a concept prototype.",
+  "merchantId": "acc_SYNTH_MDH01",
+  "currency": "INR",
+  "summary": {
+    "lastYearRampWeeks": [
+      "2025-09-29",
+      "2025-10-06",
+      "2025-10-13"
+    ],
+    "lastYearBaselineWeekly": 70300,
+    "lastYearLift": 3.4,
+    "recentBaselineWeekly": 78263
+  },
+  "weeks": [
+    {
+      "weekStart": "2025-04-07",
+      "sales": 61600
+    },
+    {
+      "weekStart": "2025-04-14",
+      "sales": 60700
+    },
+    {
+      "weekStart": "2025-04-21",
+      "sales": 63300
+    },
+    {
+      "weekStart": "2025-04-28",
+      "sales": 63500
+    },
+    {
+      "weekStart": "2025-05-05",
+      "sales": 63100
+    },
+    {
+      "weekStart": "2025-05-12",
+      "sales": 64300
+    },
+    {
+      "weekStart": "2025-05-19",
+      "sales": 62400
+    },
+    {
+      "weekStart": "2025-05-26",
+      "sales": 65600
+    },
+    {
+      "weekStart": "2025-06-02",
+      "sales": 62900
+    },
+    {
+      "weekStart": "2025-06-09",
+      "sales": 61300
+    },
+    {
+      "weekStart": "2025-06-16",
+      "sales": 61500
+    },
+    {
+      "weekStart": "2025-06-23",
+      "sales": 64800
+    },
+    {
+      "weekStart": "2025-06-30",
+      "sales": 66600
+    },
+    {
+      "weekStart": "2025-07-07",
+      "sales": 62300
+    },
+    {
+      "weekStart": "2025-07-14",
+      "sales": 63600
+    },
+    {
+      "weekStart": "2025-07-21",
+      "sales": 67700
+    },
+    {
+      "weekStart": "2025-07-28",
+      "sales": 67200
+    },
+    {
+      "weekStart": "2025-08-04",
+      "sales": 76300
+    },
+    {
+      "weekStart": "2025-08-11",
+      "sales": 72200
+    },
+    {
+      "weekStart": "2025-08-18",
+      "sales": 74700
+    },
+    {
+      "weekStart": "2025-08-25",
+      "sales": 73400
+    },
+    {
+      "weekStart": "2025-09-01",
+      "sales": 67600
+    },
+    {
+      "weekStart": "2025-09-08",
+      "sales": 64800
+    },
+    {
+      "weekStart": "2025-09-15",
+      "sales": 66200
+    },
+    {
+      "weekStart": "2025-09-22",
+      "sales": 106100
+    },
+    {
+      "weekStart": "2025-09-29",
+      "sales": 238900
+    },
+    {
+      "weekStart": "2025-10-06",
+      "sales": 246000
+    },
+    {
+      "weekStart": "2025-10-13",
+      "sales": 232100
+    },
+    {
+      "weekStart": "2025-10-20",
+      "sales": 148900
+    },
+    {
+      "weekStart": "2025-10-27",
+      "sales": 49600
+    },
+    {
+      "weekStart": "2025-11-03",
+      "sales": 68300
+    },
+    {
+      "weekStart": "2025-11-10",
+      "sales": 69700
+    },
+    {
+      "weekStart": "2025-11-17",
+      "sales": 70300
+    },
+    {
+      "weekStart": "2025-11-24",
+      "sales": 67900
+    },
+    {
+      "weekStart": "2025-12-01",
+      "sales": 68200
+    },
+    {
+      "weekStart": "2025-12-08",
+      "sales": 66000
+    },
+    {
+      "weekStart": "2025-12-15",
+      "sales": 69300
+    },
+    {
+      "weekStart": "2025-12-22",
+      "sales": 70400
+    },
+    {
+      "weekStart": "2025-12-29",
+      "sales": 67200
+    },
+    {
+      "weekStart": "2026-01-05",
+      "sales": 75400
+    },
+    {
+      "weekStart": "2026-01-12",
+      "sales": 72800
+    },
+    {
+      "weekStart": "2026-01-19",
+      "sales": 72300
+    },
+    {
+      "weekStart": "2026-01-26",
+      "sales": 74900
+    },
+    {
+      "weekStart": "2026-02-02",
+      "sales": 75900
+    },
+    {
+      "weekStart": "2026-02-09",
+      "sales": 72900
+    },
+    {
+      "weekStart": "2026-02-16",
+      "sales": 75800
+    },
+    {
+      "weekStart": "2026-02-23",
+      "sales": 74700
+    },
+    {
+      "weekStart": "2026-03-02",
+      "sales": 69100
+    },
+    {
+      "weekStart": "2026-03-09",
+      "sales": 67900
+    },
+    {
+      "weekStart": "2026-03-16",
+      "sales": 70800
+    },
+    {
+      "weekStart": "2026-03-23",
+      "sales": 72600
+    },
+    {
+      "weekStart": "2026-03-30",
+      "sales": 69800
+    },
+    {
+      "weekStart": "2026-04-06",
+      "sales": 73300
+    },
+    {
+      "weekStart": "2026-04-13",
+      "sales": 74400
+    },
+    {
+      "weekStart": "2026-04-20",
+      "sales": 74200
+    },
+    {
+      "weekStart": "2026-04-27",
+      "sales": 68800
+    },
+    {
+      "weekStart": "2026-05-04",
+      "sales": 70800
+    },
+    {
+      "weekStart": "2026-05-11",
+      "sales": 72900
+    },
+    {
+      "weekStart": "2026-05-18",
+      "sales": 75000
+    },
+    {
+      "weekStart": "2026-05-25",
+      "sales": 69100
+    },
+    {
+      "weekStart": "2026-06-01",
+      "sales": 70200
+    },
+    {
+      "weekStart": "2026-06-08",
+      "sales": 72700
+    },
+    {
+      "weekStart": "2026-06-15",
+      "sales": 72400
+    },
+    {
+      "weekStart": "2026-06-22",
+      "sales": 71900
+    },
+    {
+      "weekStart": "2026-06-29",
+      "sales": 72400
+    },
+    {
+      "weekStart": "2026-07-06",
+      "sales": 69600
+    },
+    {
+      "weekStart": "2026-07-13",
+      "sales": 70000
+    },
+    {
+      "weekStart": "2026-07-20",
+      "sales": 73400
+    },
+    {
+      "weekStart": "2026-07-27",
+      "sales": 74500
+    },
+    {
+      "weekStart": "2026-08-03",
+      "sales": 81600
+    },
+    {
+      "weekStart": "2026-08-10",
+      "sales": 84900
+    },
+    {
+      "weekStart": "2026-08-17",
+      "sales": 79500
+    },
+    {
+      "weekStart": "2026-08-24",
+      "sales": 80300
+    },
+    {
+      "weekStart": "2026-08-31",
+      "sales": 80600
+    },
+    {
+      "weekStart": "2026-09-07",
+      "sales": 77100
+    },
+    {
+      "weekStart": "2026-09-14",
+      "sales": 74400
+    },
+    {
+      "weekStart": "2026-09-21",
+      "sales": 77900
+    },
+    {
+      "weekStart": "2026-09-28",
+      "sales": 77200
+    },
+    {
+      "weekStart": "2026-10-05",
+      "sales": 79100
+    }
+  ]
+}

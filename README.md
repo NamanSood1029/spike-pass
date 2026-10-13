@@ -2,8 +2,8 @@
 
 **Grow fast without getting frozen.** A concept prototype for the **Razorpay AI x PM Build Challenge (ISB), Track 1: "Razorpay in Your Pocket"** by Naman Sood.
 
-🔗 **Live prototype:** https://spike-pass.vercel.app (best on a phone; on a laptop it opens in a phone frame)
-📓 **AI build log:** [AI_BUILD_LOG.md](AI_BUILD_LOG.md)
+- 🔗 **Live prototype:** https://spike-pass.vercel.app (best on a phone; on a laptop it opens in a phone frame)
+- 📓 **AI build log:** [AI_BUILD_LOG.md](AI_BUILD_LOG.md)
 
 > Concept prototype, not an official Razorpay product. All merchant data is synthetic, and the AI steps are simulated in the demo (see [AI integration](#ai-integration)).
 
